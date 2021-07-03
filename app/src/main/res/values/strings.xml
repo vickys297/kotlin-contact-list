@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">a</string>
+    <string name="app_name">Kotlin Contact List</string>
     <string name="contact_permission_required"><![CDATA[This application requires contact permission to run. Go to AppInfo-> Permissions-> Allow Contact Permission.]]></string>
 </resources>
